@@ -23,3 +23,8 @@ Li{
 Blockquote{
       Font-family:'Palatino',Sans-serif;
 }
+footer img{
+  Float:right;
+  Height:auto;
+  margin-left:500px
+}
