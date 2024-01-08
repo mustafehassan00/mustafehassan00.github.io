@@ -1,0 +1,25 @@
+body
+      {
+        Background-color: #376D86;
+        Font-Family:'Tahoma',sans-serif;
+      }
+Header {
+        Text-align: center
+      }
+h1, h2, h3, h4, h5, h6 {
+        Font-size: 1.5em;
+        Text-decoration: underline;    
+        Font-weight: bold;
+      }
+P{
+      Font-weight:bold;
+      Text-decoration: underline;
+      Font-size; 1.0em;
+      }
+Li{
+      Font-style: italic;
+      Font-Family:'Palatino'
+}
+Blockquote{
+      Font-family:'Palatino',Sans-serif;
+}
